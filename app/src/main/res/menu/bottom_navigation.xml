@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/berandaFragment"
+        android:icon="@drawable/icon_beranda"
+        android:title="@string/label_beranda"
+        />
+
+    <item
+        android:id="@+id/trendingFragment"
+        android:icon="@drawable/icon_trending"
+        android:title="@string/label_trending"
+        />
+
+    <item
+        android:id="@+id/subscriptionFragment"
+        android:icon="@drawable/icon_subscriptions"
+        android:title="@string/label_subscriptions"
+        />
+
+    <item
+        android:id="@+id/koleksiFragment"
+        android:icon="@drawable/icon_collections"
+        android:title="@string/label_koleksi"
+        />
+
+</menu>
